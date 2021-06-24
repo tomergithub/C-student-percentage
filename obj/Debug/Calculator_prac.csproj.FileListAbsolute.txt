@@ -1,0 +1,7 @@
+C:\ST\Automation\C#Workspace\Sheetal class\Calculator_prac\bin\Debug\Calculator_prac.exe.config
+C:\ST\Automation\C#Workspace\Sheetal class\Calculator_prac\bin\Debug\Calculator_prac.exe
+C:\ST\Automation\C#Workspace\Sheetal class\Calculator_prac\bin\Debug\Calculator_prac.pdb
+C:\ST\Automation\C#Workspace\Sheetal class\Calculator_prac\obj\Debug\Calculator_prac.csprojAssemblyReference.cache
+C:\ST\Automation\C#Workspace\Sheetal class\Calculator_prac\obj\Debug\Calculator_prac.csproj.CoreCompileInputs.cache
+C:\ST\Automation\C#Workspace\Sheetal class\Calculator_prac\obj\Debug\Calculator_prac.exe
+C:\ST\Automation\C#Workspace\Sheetal class\Calculator_prac\obj\Debug\Calculator_prac.pdb
